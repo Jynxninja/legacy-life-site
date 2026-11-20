@@ -36,6 +36,8 @@ Back in Netlify → **Domain management → HTTPS → Verify DNS / Provision cer
 ## 5. Updating the site later
 Netlify → your site → **Deploys** → drag a new `site` folder onto it.
 
+
+
 ## What I changed for launch
 - Removed the placeholder "Agent Name" card and the note about it from Meet the Team.
 - Removed "Placeholder mission copy" and "not a licensed insurer" from the footer, and removed the fake "Licensed in [ States ] · NPN [ 0000000 ]" line. **You still need to add your real licensing info to the footer.** Insurance sites are expected to show it.
